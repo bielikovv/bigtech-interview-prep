@@ -26,9 +26,9 @@ Roughly 2 hours a day for about 20 days—noticeably less than the DSA grind. Th
 
 - **`/requirements`** — Functional and non-functional requirements: how to define what a system must do, and what qualities it must have while doing it. Placeholder content for now.
 - **`/components`** — The individual building blocks (rate limiters, load balancers, API gateways, caching, databases, CDNs, etc.), each broken down on its own before you ever combine them. Not filled in yet.
-- **`/api-design`** — How to go from requirements to an actual API surface. Not filled in yet.
-- **`/diagrams`** — The system diagrams themselves, tying requirements, components, and API design together into something you could actually draw and talk through in an interview. Not filled in yet.
+- **`/api-design`** — How to go from requirements to an actual API surface: REST vs. gRPC vs. GraphQL, and when each one actually earns its place.
+- **`/diagrams`** — The system diagrams themselves, tying requirements, components, and API design together into something you could actually draw and talk through in an interview. **Deliberately on hold**—see [diagrams/README.md](diagrams/README.md) for why.
 
 ## What's Still Coming
 
-Functional and non-functional requirement gathering is its own skill and deserves real depth—that, along with the individual component breakdowns and the streaming/caching/geospatial system write-ups, will be added to the folders above as I finish preparing them.
+Functional and non-functional requirement gathering is its own skill and deserves real depth—that, along with the individual component breakdowns and the streaming/caching/geospatial system write-ups, will be added to the folders above as I finish preparing them. Diagrams specifically are on hold on purpose, not just unstarted—I want real reps drawing them before I lock in conventions I'd probably have to rewrite anyway.

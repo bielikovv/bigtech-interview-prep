@@ -31,10 +31,10 @@ I hope this repo brings you the same kind of jump.
 ## How This Repo Is Structured
 
 - **`/DSA`** — Data Structures & Algorithms. **Fully built out.** Every topic folder has its own `Roadmap.md` (the mental models and pattern breakdowns) and `tasks.md` (the actual problem list I worked through, with links and difficulty). See [DSA/Roadmap.md](DSA/Roadmap.md) for the full story of how I approached this piece.
-- **`/HLD`** — High-Level Design. **Roadmap started.** See [HLD/Roadmap.md](HLD/Roadmap.md) for how I approached it and whether you even need it for your target level/company; the detailed component and system write-ups are still in progress.
-- **`/LLD`** — Low-Level Design. Same story—its own section, coming once I have real experience to share, not just theory.
-- **`/AI`** — AI-assisted interview rounds (AI debugging, AI-paired coding sessions). Not started yet—I haven't been through one of these myself.
+- **`/HLD`** — High-Level Design. **Fully built out**, aside from one deliberate gap: `/diagrams` is intentionally on hold (see [HLD/Roadmap.md](HLD/Roadmap.md) for why). Requirements, components, and API design are all filled in.
+- **`/LLD`** — Low-Level Design. **Fully built out**, aside from `/examples`, which is still empty—I want real worked problems (parking lot, elevator, that classic set) in there before calling it done. See [LLD/Roadmap.md](LLD/Roadmap.md).
+- **`/AI`** — AI-assisted interview rounds (AI debugging, AI-paired coding sessions). Not started yet—I'm still investigating what actually shows up in these rounds at Big Tech companies before writing anything down here.
 
-Right now, DSA is the only block that's actually filled in—the rest are placeholders for what's coming next as I work through the same "get genuinely good, not just interview-ready" approach in each area.
+DSA, HLD, and LLD are all filled in now, with the two noted gaps above (HLD diagrams, LLD examples) left open on purpose rather than by neglect. AI is the one section still genuinely unstarted.
 
 Feel free to follow along, use the DSA roadmap and task lists as a reference, and check back as the other sections come online.
